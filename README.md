@@ -20,6 +20,6 @@ o vetor C gerado.
 - [x] Propriedade lenght;
 - [x] Lógica da programação;
 
-------------
+-----------
 
 Disponibilizado por [dionatan07](https://www.linkedin.com/in/dionatandeandrade/ "LinkedIn").
